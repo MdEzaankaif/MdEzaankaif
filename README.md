@@ -136,14 +136,14 @@ Currently exploring deeper cloud integrations, advanced ML pipelines, and full-s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezaankaif-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F97316&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezaankaif-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdEzaankaif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F97316&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdEzaankaif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ezaankaif-coder&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=F97316&fire=F97316&currStreakLabel=38BDF8)
+![GitHub Streak](https://streak-stats.demolab.com?user=MdEzaankaif&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=F97316&fire=F97316&currStreakLabel=38BDF8)
 
 </div>
 
@@ -171,7 +171,7 @@ Currently exploring deeper cloud integrations, advanced ML pipelines, and full-s
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/ezaankaif)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ezaankaif-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/MdEzaankaif)
 [![Email](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:ezaankaif@gmail.com)
 
 </div>
@@ -180,23 +180,8 @@ Currently exploring deeper cloud integrations, advanced ML pipelines, and full-s
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ezaankaif-coder&color=38BDF8&style=flat&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=MdEzaankaif&color=38BDF8&style=flat&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
-
-<!--
-**MdEzaankaif/MdEzaankaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
